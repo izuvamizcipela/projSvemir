@@ -1,0 +1,78 @@
+body{
+    margin: 0;
+}
+
+.home-page{
+    position: relative;
+    border: 3px solid #73AD21;
+}
+
+h2{
+    font-size: 55px;
+}
+
+h1{
+    font-size: 230px;
+    margin-top: 20px;
+    margin-bottom: 80px;
+}
+
+p{
+    font-size: 26px;
+    letter-spacing: 2px;
+}
+
+.svemir-pozadina{
+    width: 100%;
+    
+}
+
+.top-container{
+    position: absolute;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 4%, rgba(111,157,255,1) 45%, rgba(12,58,68,1) 100%);
+    width: 600px;
+    padding: 50px 200px;
+    top: 100px;
+    right: 0; 
+    
+}
+
+.logo-pic{
+    position: absolute;
+    left: 60px;
+    top: 130px;
+}
+
+a{
+    padding: 10px 20px;
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+}
+
+
+
+.middle-container{
+    position: absolute;
+    color: white;
+    width: 40%;
+    bottom: 120px;
+    left: 220px;
+    
+}
+
+
+
+
+.circle {
+    width: 200px;
+    height: 200px;
+    line-height: 200px;
+    border-radius: 50%;
+    font-size: 30px;
+    color: #fff;
+    text-align: center;
+    background: #000;
+    float: right;
+  }
